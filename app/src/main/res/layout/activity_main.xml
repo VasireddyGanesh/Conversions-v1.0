@@ -8,8 +8,7 @@
 
 <LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-
+    android:layout_height="wrap_content"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -49,8 +48,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginBottom="5dp"
-                android:fontFamily="@font/lily_script_one"
-                android:text="Age Calculaton"
+                android:fontFamily="@font/aclonica"
+                android:text="Age Calculation"
                 android:textColor="#FF5722"
                 android:textSize="24sp"
                 android:textStyle="bold" />
@@ -67,7 +66,7 @@
                 android:layout_marginTop="3dp"
                 android:fontFamily="@font/acme"
                 android:gravity="center"
-                android:text="In This Option is used to caluclate your Age "
+                android:text="@string/Age_calculator_discription"
                 android:textColor="#0A0A0A"
                 android:textSize="18sp" />
 
@@ -111,8 +110,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginBottom="5dp"
-                android:fontFamily="@font/lily_script_one"
-                android:text="Coversions"
+                android:fontFamily="@font/aclonica"
+                android:text="@string/unit_conversions"
                 android:textColor="#FF5722"
                 android:textSize="24sp"
                 android:textStyle="bold" />
@@ -129,7 +128,7 @@
                 android:layout_marginTop="3dp"
                 android:fontFamily="@font/acme"
                 android:gravity="center"
-                android:text="In This Option is used to covert one value To another Value"
+                android:text="@string/conversions_discription"
                 android:textColor="#0B0B0B"
                 android:textSize="18sp" />
 
@@ -172,7 +171,7 @@
                 android:layout_gravity="center"
                 android:layout_marginBottom="5dp"
                 android:fontFamily="@font/aclonica"
-                android:text="Simple Caluclator"
+                android:text="@string/calculator"
                 android:textColor="#FF5722"
                 android:textSize="24sp"
                 android:textStyle="bold" />
@@ -189,7 +188,7 @@
                 android:layout_marginTop="3dp"
                 android:fontFamily="@font/acme"
                 android:gravity="center"
-                android:text="This option to Caluclate Bsic operations and Caluctions"
+                android:text="@string/calculator_discription"
                 android:textColor="#0D0C0C"
                 android:textSize="18sp" />
         </LinearLayout>
