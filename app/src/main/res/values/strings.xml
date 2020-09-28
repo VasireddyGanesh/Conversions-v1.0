@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Conversions</string>
     <string name="conversions">Conversions</string>
-    <string name="simple_calculator">simple Calculator</string>
+    <string name="simple_calculator">Basic Calculator</string>
     <string name="conversions_discription">You can able to do some basic Unit Conversions using this</string>
     <string name="calculator_discription">You can able to do basic Mathematical operations using this .</string>
     <string name="Age_calculator_discription">Just enter your Date of birth .It will show your age</string>

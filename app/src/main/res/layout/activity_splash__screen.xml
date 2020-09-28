@@ -36,10 +36,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:fontFamily="@font/lily_script_one"
+            android:fontFamily="@font/aclonica"
             android:gravity="right"
             android:padding="5dp"
-            android:text="Conversions"
+            android:text="Conversions ,"
             android:textColor="#E91E63"
             android:textSize="24sp" />
 
@@ -48,11 +48,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:fontFamily="@font/lily_script_one"
+            android:fontFamily="@font/aclonica"
             android:gravity="left"
             android:padding="5dp"
-            android:text="Age Caluclator"
-            android:textColor="#3F51B5"
+            android:text="Age Calculator"
+            android:textColor="#E91E63"
             android:textSize="24sp" />
 
     </LinearLayout>
@@ -63,10 +63,10 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:layout_weight="1"
-        android:fontFamily="@font/lily_script_one"
+        android:fontFamily="@font/aclonica"
         android:gravity="left"
         android:text="@string/simple_calculator"
-        android:textColor="#2196F3"
+        android:textColor="#E91E63"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
